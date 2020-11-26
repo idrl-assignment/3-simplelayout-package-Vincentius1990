@@ -11,6 +11,16 @@ Welcome to 3-simplelayout-package-Vincentius1990's documentation!
    :caption: Contents:
 
 
+Introduction
+============ 
+This is the introduction of simplelayout。
+ 
+
+API
+=== 
+.. automodule:: main    
+   :members:
+
 
 Indices and tables
 ==================
