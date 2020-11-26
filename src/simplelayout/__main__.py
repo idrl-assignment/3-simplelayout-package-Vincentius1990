@@ -16,5 +16,5 @@ def main():
     #  TODO 使用导入的函数按命令行参数生成数据，包括 mat 文件与 jpg 文件
 
 
-if __name__ == "__main__":
+if __name__ == "main":
     main()
