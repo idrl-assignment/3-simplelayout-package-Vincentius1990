@@ -1,1 +1,0 @@
-from simplelayout.__main__ import main # noqa

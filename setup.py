@@ -16,7 +16,7 @@ setuptools.setup(
     entry_points={
         'console_scripts': [
             "simplelayout = simplelayout.__main__:main",
-        ]
+        ],
     },
     install_requires=['argparse', 'pathlib', 'matplotlib', 'numpy', 'scipy']
 )
