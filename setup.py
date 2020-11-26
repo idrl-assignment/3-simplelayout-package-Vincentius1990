@@ -20,11 +20,5 @@ setuptools.setup(
             "simplelayout = simplelayout:main"
         ]
     },
-    classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
-    ],
-    python_requires='>=3.6',
     install_requires=['argparse', 'pathlib', 'matplotlib', 'numpy', 'scipy']
 )
