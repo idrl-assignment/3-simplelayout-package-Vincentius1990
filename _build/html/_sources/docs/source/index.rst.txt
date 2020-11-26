@@ -13,7 +13,7 @@ Welcome to 3-simplelayout-package-Vincentius1990's documentation!
 
 Introduction
 ============ 
-This is the introduction of simplelayout.
+This is the introduction of simplelayout。
  
 
 API
